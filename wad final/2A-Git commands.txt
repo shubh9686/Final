@@ -1,0 +1,15 @@
+// after creating a new repo 
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Priyadarshan9686/A1.git
+git push -u origin main
+
+
+// to add new changes in new repo 
+
+git remote add origin https://github.com/Priyadarshan9686/A1.git
+git branch -M main
+git push -u origin main
